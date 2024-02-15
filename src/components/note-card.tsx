@@ -18,7 +18,7 @@ export function NoteCard({ note }: NoteCardProps) {
 
                 <span 
                 className=" text-sm font-medium text-slate-300 ">
-                    {note.date.toISOString()}  
+                    {formatDistanceToNow(note.date, {locale:ptBR, addSuffix: true})}   
                 </span>
 
                 <p className="text-sm leading-6 text-slate-400">
