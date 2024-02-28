@@ -1,7 +1,7 @@
 # 📋 Projeto: [Notepad](https://notepad-devgferreira.vercel.app/)
 Durante a trilha de React do evento NLW Expert da [Rocketseat](https://app.rocketseat.com.br/), desenvolvemos um projeto em React + Vite + TypeScript utilizando Tailwind CSS. O objetivo principal do projeto era criar um site de notas capaz de salvar ou deletar notas escritas e armazená-las.
 
-
+ 
 # 🖋️ Funcionalidades:
 
 - Grave uma nota por meio de áudio.
